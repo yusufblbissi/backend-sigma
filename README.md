@@ -1,1 +1,5 @@
-# backend-sigma
+-install mongodb amd run server db 
+-install mongodb compass 
+-connect you local mongodb
+-run "npm i" 
+-run "nodemon server.js"
