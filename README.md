@@ -84,10 +84,6 @@ Once the server is running, use the following API routes:
   - Description: Deletes a loan application with a specified ID.
   - Example: `DELETE /api/loans/123` will delete the loan application with ID `123`.
 
-### Additional Notes
-- Make sure MongoDB is running whenever you start the server.
-- Access the server at `http://localhost:YOUR_PORT` (replace `YOUR_PORT` with your server's port number, often `3000`).
+### Accessing Swagger UI
+To view the API documentation in an interactive format, you can use Swagger UI at:
 
----
-
-This completes the setup! You should now be able to interact with the API and database through your application.
